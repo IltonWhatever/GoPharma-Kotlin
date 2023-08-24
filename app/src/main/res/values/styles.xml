@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextStyle">
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/edittext_border</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">25dp</item>
+    </style>
+
+    <style name="NavBAR">
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/edittext_border_no_radius</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextFont">
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="EditTextWithBorder">
+        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="ButtonsLogins">
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+
+    <!-- Style para definir a fonte padrão para a aplicação -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+</resources>

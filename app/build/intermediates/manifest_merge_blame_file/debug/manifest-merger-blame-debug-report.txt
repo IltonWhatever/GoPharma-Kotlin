@@ -1,0 +1,155 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.gopharma"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:7:5-42:19
+14        android:allowBackup="true"
+14-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\e16c59b1e48c239ca2936c03d482d39b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:9:9-65
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:10:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:12:9-41
+22        android:networkSecurityConfig="@xml/network_security_config"
+22-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:13:9-69
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:14:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:15:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:16:9-40
+27        <activity
+27-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:19:9-21:40
+28            android:name="com.example.gopharma.view.PropostasActivity"
+28-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:20:13-51
+29            android:exported="false" />
+29-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:21:13-37
+30        <activity
+30-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:22:9-24:40
+31            android:name="com.example.gopharma.view.MenuActivity"
+31-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:23:13-46
+32            android:exported="false" />
+32-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:24:13-37
+33        <activity
+33-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:25:9-27:40
+34            android:name="com.example.gopharma.view.CadastroActivity"
+34-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:26:13-50
+35            android:exported="false" />
+35-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:27:13-37
+36        <activity
+36-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:28:9-37:20
+37            android:name="com.example.gopharma.view.LoginActivity"
+37-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:29:13-47
+38            android:exported="true"
+38-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:30:13-36
+39            android:label="@string/app_name" >
+39-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:31:13-45
+40            <intent-filter>
+40-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:32:13-36:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:33:17-69
+41-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:33:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:35:17-77
+43-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:35:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <meta-data
+47-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:39:9-41:57
+48            android:name="preloaded_fonts"
+48-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:40:13-43
+49            android:resource="@array/preloaded_fonts" />
+49-->C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:41:13-54
+50
+51        <activity
+51-->[androidx.compose.ui:ui-tooling:1.3.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:23:9-25:39
+52            android:name="androidx.compose.ui.tooling.PreviewActivity"
+52-->[androidx.compose.ui:ui-tooling:1.3.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:24:13-71
+53            android:exported="true" />
+53-->[androidx.compose.ui:ui-tooling:1.3.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:25:13-36
+54        <activity
+54-->[androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:23:9-25:39
+55            android:name="androidx.activity.ComponentActivity"
+55-->[androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:24:13-63
+56            android:exported="true" />
+56-->[androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:25:13-36
+57
+58        <provider
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\c2d1b88683a6e9a20eaaa01e19a1fb89\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+59            android:name="androidx.startup.InitializationProvider"
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\c2d1b88683a6e9a20eaaa01e19a1fb89\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+60            android:authorities="com.example.gopharma.androidx-startup"
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\c2d1b88683a6e9a20eaaa01e19a1fb89\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+61            android:exported="false" >
+61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\c2d1b88683a6e9a20eaaa01e19a1fb89\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+62            <meta-data
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\c2d1b88683a6e9a20eaaa01e19a1fb89\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\c2d1b88683a6e9a20eaaa01e19a1fb89\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+64                android:value="androidx.startup" />
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\c2d1b88683a6e9a20eaaa01e19a1fb89\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+65            <meta-data
+65-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\39a15e496e477a0edfdfadc77a782cb0\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+66                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+66-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\39a15e496e477a0edfdfadc77a782cb0\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+67                android:value="androidx.startup" />
+67-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\39a15e496e477a0edfdfadc77a782cb0\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+68            <meta-data
+68-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+69                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+69-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+70                android:value="androidx.startup" />
+70-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+71        </provider>
+72
+73        <receiver
+73-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+74            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+74-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+75            android:directBootAware="false"
+75-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+76            android:enabled="true"
+76-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+77            android:exported="true"
+77-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+78            android:permission="android.permission.DUMP" >
+78-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+79            <intent-filter>
+79-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+80                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+80-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+80-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+81            </intent-filter>
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+83                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+83-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:25-82
+84            </intent-filter>
+85        </receiver>
+86    </application>
+87
+88</manifest>

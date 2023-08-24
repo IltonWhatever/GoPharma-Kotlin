@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="40dp"
+    tools:context=".view.CadastroActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:elevation="10dp"
+        android:fontFamily="@font/lato_bold"
+        android:gravity="center"
+        android:text="Criar Conta"
+        android:textColor="#22c2c6"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:drawableStart="@drawable/icon_user"
+        android:id="@+id/nome"
+        android:hint="  Nome de Usuario"
+        style="@style/EditTextStyle"
+        />
+    <EditText
+        android:drawableStart="@drawable/icon_email"
+        android:id="@+id/email"
+        android:hint="  E-mail"
+        style="@style/EditTextStyle"
+        />
+    <EditText
+        android:drawableStart="@drawable/icon_phone"
+        android:id="@+id/telefone"
+        android:hint="  Celular"
+        style="@style/EditTextStyle"
+        />
+
+    <EditText
+        android:drawableStart="@drawable/icon_lock"
+        android:id="@+id/senha"
+        android:hint="  Senha"
+        style="@style/EditTextStyle"
+        />
+
+    <EditText
+        android:drawableStart="@drawable/icon_lock"
+        android:id="@+id/confSenha"
+        android:hint="  Confirmação Senha"
+        style="@style/EditTextStyle"
+        />
+    <Button
+        android:text="Registrar-se"
+        android:id="@+id/criarConta"
+        style="@style/ButtonsLogins"
+        />
+
+</LinearLayout>
