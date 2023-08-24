@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.gopharma.app-mergeDebugResources-57:/values-bg/values-bg.xml",
+            "outputFile": "com.example.gopharma.app-mergeDebugResources-53:/values-bg/values-bg.xml",
             "map": [
                 {
                     "source": "C:\\Users\\IFCE-Lab4\\.gradle\\caches\\transforms-3\\c02ba6dc0e9f82a119f05e80db212ef5\\transformed\\appcompat-1.4.1\\res\\values-bg\\values-bg.xml",

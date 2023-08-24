@@ -1,26 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-58:\\layout\\activity_menu.xml",
-        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-61:\\layout\\activity_menu.xml"
+        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-54:\\layout\\activity_propostas.xml",
+        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-57:\\layout\\activity_propostas.xml"
     },
     {
-        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-58:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-61:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-54:\\layout\\activity_client_details.xml",
+        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-57:\\layout\\activity_client_details.xml"
     },
     {
-        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-58:\\layout\\activity_cadastro.xml",
-        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-61:\\layout\\activity_cadastro.xml"
+        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-54:\\layout\\activity_cadastro.xml",
+        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-57:\\layout\\activity_cadastro.xml"
     },
     {
-        "merged": "com.example.gopharma.app-mergeDebugResources-58:/layout/activity_client_details.xml",
-        "source": "com.example.gopharma.app-main-61:/layout/activity_client_details.xml"
+        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-54:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-57:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-58:\\layout\\activity_propostas.xml",
-        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-61:\\layout\\activity_propostas.xml"
+        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-54:\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-57:\\layout\\activity_menu.xml"
     },
     {
-        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-58:\\layout\\activity_client_details.xml",
-        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-61:\\layout\\activity_client_details.xml"
+        "merged": "com.example.gopharma.app-mergeDebugResources-54:/layout/activity_cadastro.xml",
+        "source": "com.example.gopharma.app-main-57:/layout/activity_cadastro.xml"
     }
 ]

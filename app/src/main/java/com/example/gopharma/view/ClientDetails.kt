@@ -33,7 +33,7 @@ class ClientDetails : AppCompatActivity(), View.OnClickListener{
 
 
     fun getCliente(idClient : String){
-        val retrofitClient = ServerHTTP.getRetrofitInstance("http://192.168.63.65:5000/")
+        val retrofitClient = ServerHTTP.getRetrofitInstance("http://192.168.137.1:5000/")
 
         val endpoint = retrofitClient.create(Endpoints::class.java)
 

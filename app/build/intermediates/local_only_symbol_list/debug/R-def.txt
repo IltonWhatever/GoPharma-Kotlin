@@ -46,7 +46,6 @@ id deleteButton
 id detailnome
 id editButton
 id email
-id esqueceuSenha
 id filter
 id irCriarConta
 id linearLayout

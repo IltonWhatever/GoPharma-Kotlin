@@ -2683,7 +2683,6 @@ id currentState
 id custom
 id customPanel
 id cut
-id dataBinding
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2727,7 +2726,6 @@ id end
 id endToStart
 id enterAlways
 id enterAlwaysCollapsed
-id esqueceuSenha
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -2870,8 +2868,6 @@ id notification_main_column_container
 id notify
 id off
 id on
-id onAttachStateChangeListener
-id onDateChanged
 id onInterceptTouchReturnSwipe
 id options
 id outline
@@ -2995,7 +2991,6 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
-id textWatcher
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
