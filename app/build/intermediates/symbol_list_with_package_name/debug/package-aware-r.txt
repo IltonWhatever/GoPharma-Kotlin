@@ -2642,6 +2642,7 @@ id cache_measures
 id callMeasure
 id cancel_button
 id carryVelocity
+id celular
 id center
 id center_horizontal
 id center_vertical
@@ -2688,6 +2689,7 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id deleteButton
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -2695,6 +2697,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detailnome
 id dialog_button
 id dimensions
 id direct
@@ -2716,6 +2719,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editButton
 id edit_query
 id elastic
 id email
@@ -3127,6 +3131,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_cadastro
+layout activity_client_details
 layout activity_login
 layout activity_menu
 layout activity_propostas

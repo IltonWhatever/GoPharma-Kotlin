@@ -25,6 +25,9 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.example.gopharma.view.ClientDetails"
+            android:exported="false" />
+        <activity
             android:name="com.example.gopharma.view.PropostasActivity"
             android:exported="false" />
         <activity

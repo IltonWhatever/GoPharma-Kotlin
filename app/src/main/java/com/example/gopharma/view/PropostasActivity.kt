@@ -1,5 +1,6 @@
 package com.example.gopharma.view
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -27,7 +28,11 @@ class PropostasActivity : AppCompatActivity(), View.OnClickListener{
         binding.textView.setOnClickListener(this)
 
         binding.listPropostas.setOnItemClickListener{parent, view, position, id->
-            binding.boxbox.setText(clientes.get(position).nome)
+            val intent = Intent(this@PropostasActivity, ClientDetails::class.java)
+            intent.putExtra("idClient", "2")
+            println("Passou Aqui 1")
+            startActivity(intent)
+            println("Passou Aqui 2")
         }
 
         listCliente()
@@ -38,8 +43,7 @@ class PropostasActivity : AppCompatActivity(), View.OnClickListener{
     }
 
     fun listCliente(){
-        val retrofitClient = ServerHTTP
-            .getRetrofitInstance("http://192.168.0.65/")
+        val retrofitClient = ServerHTTP.getRetrofitInstance("http://192.168.63.65:5000/")
 
         val endpoint = retrofitClient.create(Endpoints::class.java)
 

@@ -12,11 +12,15 @@
         "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-61:\\layout\\activity_cadastro.xml"
     },
     {
+        "merged": "com.example.gopharma.app-mergeDebugResources-58:/layout/activity_client_details.xml",
+        "source": "com.example.gopharma.app-main-61:/layout/activity_client_details.xml"
+    },
+    {
         "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-58:\\layout\\activity_propostas.xml",
         "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-61:\\layout\\activity_propostas.xml"
     },
     {
-        "merged": "com.example.gopharma.app-mergeDebugResources-58:/layout/activity_propostas.xml",
-        "source": "com.example.gopharma.app-main-61:/layout/activity_propostas.xml"
+        "merged": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-mergeDebugResources-58:\\layout\\activity_client_details.xml",
+        "source": "C:\\Users\\IFCE-Lab4\\.gradle\\daemon\\8.0\\com.example.gopharma.app-main-61:\\layout\\activity_client_details.xml"
     }
 ]

@@ -5,6 +5,7 @@ import retrofit2.Call
 import retrofit2.http.Body
 import retrofit2.http.GET
 import retrofit2.http.POST
+import retrofit2.http.Path
 
 interface Endpoints {
     @POST("cliente")
@@ -12,4 +13,7 @@ interface Endpoints {
 
     @GET("cliente")
     fun getCliente() : Call<List<Cliente>>
+    @GET("cliente/{idClient}")
+    fun getClienteID(@Path("idClient") idClient : String?) : Call<Cliente>
+
 }

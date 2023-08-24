@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [androidx.databinding:databinding-adapters:8.0.2] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\75e55043df21a138dc80a4873d2d7b3f\transformed\databinding-adapters-8.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.0.2] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\ebcdf57574d1e916d75df2f342deba88\transformed\databinding-ktx-8.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.0.2] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\dbe2d44b2873e49775ae4cfbd1bfda07\transformed\databinding-runtime-8.0.2\AndroidManifest.xml:2:1-7:12
@@ -77,22 +77,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\IFCE-Lab4\.gradl
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\91616649a0bbe6fa4f3c475207172830\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\8366e08a87e71a0da958c6fc88525c3f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\733bfb82eb7a85fe547110e98cc56c45\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
 		INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-44:12
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:2:11-69
@@ -101,7 +101,7 @@ ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManife
 	android:name
 		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:7:5-42:19
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:7:5-44:19
 MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\IFCE-Lab4\.gradle\caches\transforms-3\7c9a0dbb54d1ae65e0cced28c46eef85\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
@@ -144,48 +144,54 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\IFCE-Lab4\.gradle\
 		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:13:9-69
 	android:dataExtractionRules
 		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.example.gopharma.view.ClientDetails
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:19:13-47
 activity#com.example.gopharma.view.PropostasActivity
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:19:9-21:40
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:20:13-51
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:22:13-51
 activity#com.example.gopharma.view.MenuActivity
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:22:9-24:40
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:24:13-37
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:23:13-46
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:25:13-46
 activity#com.example.gopharma.view.CadastroActivity
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:25:9-27:40
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:27:9-29:40
 	android:exported
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:27:13-37
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:26:13-50
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:28:13-50
 activity#com.example.gopharma.view.LoginActivity
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:28:9-37:20
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:30:9-39:20
 	android:label
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:31:13-45
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:33:13-45
 	android:exported
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:30:13-36
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:29:13-47
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:31:13-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:37:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:39:9-41:57
+ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:41:9-43:57
 	android:resource
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:41:13-54
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:43:13-54
 	android:name
-		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:40:13-43
+		ADDED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml:42:13-43
 uses-sdk
 INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\IFCE-Lab4\StudioProjects\GoPharma\app\src\main\AndroidManifest.xml

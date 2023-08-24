@@ -1,4 +1,4 @@
-#Thu Aug 24 16:46:50 BRT 2023
+#Thu Aug 24 18:36:45 BRT 2023
 base.0=C\:\\Users\\IFCE-Lab4\\StudioProjects\\GoPharma\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\IFCE-Lab4\\StudioProjects\\GoPharma\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.10=C\:\\Users\\IFCE-Lab4\\StudioProjects\\GoPharma\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex

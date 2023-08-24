@@ -39,8 +39,12 @@ drawable white_arrow_right
 font lato_bold
 id boxbox
 id button
+id celular
 id confSenha
 id criarConta
+id deleteButton
+id detailnome
+id editButton
 id email
 id esqueceuSenha
 id filter
@@ -58,6 +62,7 @@ id telefone
 id textCriarConta
 id textView
 layout activity_cadastro
+layout activity_client_details
 layout activity_login
 layout activity_menu
 layout activity_propostas

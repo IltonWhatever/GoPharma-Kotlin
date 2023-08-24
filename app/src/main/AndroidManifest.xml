@@ -15,7 +15,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:targetApi="31">
-
+        <activity
+            android:name=".view.ClientDetails"
+            android:exported="false" />
         <activity
             android:name=".view.PropostasActivity"
             android:exported="false" />
